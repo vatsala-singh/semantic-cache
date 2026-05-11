@@ -1,3 +1,5 @@
+Refer to 'setup_and_run.md' file for setup
+
 - Fast API: for creating the API.
 - UVicorn: for running the API.
 - Redis: for storing the cache.
