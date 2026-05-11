@@ -400,4 +400,6 @@ deactivate
 - **FastAPI Documentation**: https://fastapi.tiangolo.com/
 - **Ollama Models**: https://ollama.ai/
 - **Redis Documentation**: https://redis.io/documentation
-- **Project Documentation**: See `Readme.md` and `BLOG.md` for architecture details
+- **Project Documentation**: See `Readme.md` and `description.md` for architecture details
+
+
